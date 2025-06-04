@@ -16,6 +16,15 @@
 
 ---
 
+📄 [View My Resume](https://drive.google.com/file/d/1tZxy9YFhj83Td8JDbozI3rLKeIvGcUuJ/view?usp=sharing)
+
+---
+
+### 📫 Actively looking for:
+- SWE/AI/Data Engineering Internships for Fall 2025/Spring 2026
+
+---
+
 ### 🛠️ Tech Stack
 
 **Languages:**  
@@ -40,12 +49,12 @@ OpenAI · HuggingFace · RAG · LoRA · TensorFlow · scikit-learn · Gradio · 
 
 ---
 
-### 📊 GitHub Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/samarthjain?theme=light&font=Roboto&ext=heatmap)](https://leetcode.com/samarthj2000/)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sam-is-in-the-states&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-is-in-the-states&layout=compact" />
-</p>
+---
+
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://your-portfolio-url.com)
 
 ---
 
@@ -70,6 +79,15 @@ OpenAI · HuggingFace · RAG · LoRA · TensorFlow · scikit-learn · Gradio · 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/samarth-jain-91290818b/)
 [![Email](https://img.shields.io/badge/Email-jain.samar@northeastern.edu-red)](mailto:jain.samar@northeastern.edu)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sam-is-in-the-states&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-is-in-the-states&layout=compact" />
+</p>
 
 ---
 
