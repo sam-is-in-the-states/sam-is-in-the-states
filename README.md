@@ -54,7 +54,7 @@ OpenAI · HuggingFace · RAG · LoRA · TensorFlow · scikit-learn · Gradio · 
 ---
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://resumepal.fyi/samarth)
 
 ---
 
