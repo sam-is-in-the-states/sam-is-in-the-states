@@ -49,7 +49,7 @@ OpenAI · HuggingFace · RAG · LoRA · TensorFlow · scikit-learn · Gradio · 
 
 ---
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/samarthjain?theme=light&font=Roboto&ext=heatmap)](https://leetcode.com/samarthj2000/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sam-Jain?theme=light&font=Roboto&ext=heatmap)](https://leetcode.com/u/sam-Jain/)
 
 ---
 
