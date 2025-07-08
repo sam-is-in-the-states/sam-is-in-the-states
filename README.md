@@ -10,13 +10,13 @@
 - 💻 Passionate about building **scalable backends**, **LLM apps**, and **data pipelines**
 - 🛠️ Experienced in **Data Engineering** and **Warehousing** — built pipelines handling 10M+ records
 - 🔍 Exploring cutting-edge AI, Reinforcement Learning, and Retrieval-Augmented Generation (RAG)
-- 🌐 Hands-on with **Django REST Framework, FASTapi, React, Angular, and AWS**
+- 🌐 Hands-on with **Django REST Framework, MERN Stack, FASTapi, React, Angular, and AWS**
 - 👨‍🏫 Teaching Assistant for **Algorithms** (Spring & Summer 2025)
 - 🎓 Master’s in Computer Science @ **Northeastern University**, GPA: 4.0
 
 ---
 
-📄 [View My Resume](https://drive.google.com/file/d/1DnYS607eZWOtAa4PJ7EWpdjb6ciXGNiT/view?usp=sharing)
+📄 [View My Resume](https://drive.google.com/file/d/19_7PXuD07_zF4XPNa-WfE9CeqA3hi3Sy/view?usp=sharing)
 
 ---
 
@@ -31,11 +31,11 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-00ADD8?style=flat&logo=javascript&logoColor=white)
 
 **Frameworks & Tools:**  
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![MERN](https://img.shields.io/badge/MERN-00ADD8?style=flat&logoColor=white)
 ![FASTapi](https://img.shields.io/badge/FASTAPI-009688?style=flat&logo=fastapi)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
@@ -60,6 +60,9 @@ OpenAI · HuggingFace · RAG · LoRA · TensorFlow · scikit-learn · Gradio · 
 
 ### 🔧 Featured Projects
 
+- [🎮 GameHub](https://github.com/sam-is-in-the-states/game-hub-react)  
+  *NodeJS, JavaScript, mongoDB, ExpressJS, MERN Stack* — Desktop app for Browsing latest games by categories and releases.
+
 - [📅 Calendar Management System](https://github.com/sam-is-in-the-states/calendar-management-system)  
   *Java, Swing, MVC, PIT Testing* — Desktop app for managing calendar events across views.
 
@@ -70,8 +73,11 @@ OpenAI · HuggingFace · RAG · LoRA · TensorFlow · scikit-learn · Gradio · 
 
 ### 📚 Certifications
 
-- **LLM Engineering** — Udemy, May 2025  
+- **LLM Engineering** — Udemy, June 2025  
   Hands-on with Generative AI, Agents, RAG, LoRA, and fine-tuning open-source models.
+
+- **Back-end Development with NodeJs** — Mosh, May 2025  
+  Explore and gain experience in MERN stack and development in nodeJS enviromnent.
 
 ---
 
