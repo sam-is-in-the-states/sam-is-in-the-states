@@ -60,7 +60,7 @@ OpenAI · HuggingFace · RAG · LoRA · TensorFlow · scikit-learn · Gradio · 
 
 ### 🔧 Featured Projects
 
-- [🎮 GameHub](https://github.com/sam-is-in-the-states/game-hub-react)  
+- [🎮 GameHub](https://github.com/sam-is-in-the-states/GameHub)  
   *NodeJS, JavaScript, mongoDB, ExpressJS, MERN Stack* — Desktop app for Browsing latest games by categories and releases.
 
 - [📅 Calendar Management System](https://github.com/sam-is-in-the-states/calendar-management-system)  
