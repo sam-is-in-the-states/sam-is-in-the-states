@@ -16,12 +16,12 @@
 
 ---
 
-📄 [View My Resume](https://drive.google.com/file/d/1NRF--DNci1lp43nfej8j7Eko8LXu43zX/view?usp=sharing)
+📄 [View My Resume](https://drive.google.com/file/d/18C3s5z_-LO8uvdQEBrOdIul7aQhVodcJ/view?usp=sharing)
 
 ---
 
 ### 📫 Actively looking for:
-- SWE/AI/Data Engineering Internships for Fall 2025/Spring 2026
+- SWE/AI/Data Engineering Internships for Spring 2026 or Full time Roles for Summer 2026
 
 ---
 
