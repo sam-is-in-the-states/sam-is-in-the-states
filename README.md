@@ -16,7 +16,7 @@
 
 ---
 
-📄 [View My Resume](https://drive.google.com/file/d/1dKVediiRiL857uOq6mbbsdzZ7wPGOhat/view?usp=sharing)
+📄 [View My Resume](https://drive.google.com/file/d/11fi-P_Yi80tEHVVmCGGYVqgTXji27z1C/view?usp=sharing)
 
 ---
 
@@ -59,6 +59,9 @@ OpenAI · HuggingFace · RAG · LoRA · TensorFlow · scikit-learn · Gradio · 
 ---
 
 ### 🔧 Featured Projects
+
+- [🎤 Live Speech Analyzer](https://github.com/sam-is-in-the-states/memory-machines)
+- *React, Deepgram, Python, WebSockets, FastApi* - Web app that converts speech to live transcripts and extracts keywords in real-time.
 
 - [🎮 GameHub](https://github.com/sam-is-in-the-states/GameHub)  
   *NodeJS, JavaScript, mongoDB, ExpressJS, MERN Stack* — Desktop app for Browsing latest games by categories and releases.
